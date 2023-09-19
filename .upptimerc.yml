@@ -10,24 +10,30 @@ sites:
     url: https://api.dev.package-search.services.jetbrains.com/search-packages
     headers:
       - "Content-Type: application/json"
-    body:
-    '{
-      "packagesType": [
-        {
-          "type": "gradle",
-          "mustBeRootPublication": true,
-          "variants": []
-        }
-      ],
-      "searchQuery": "ktor"
-    }'
+    body: >
+      {
+        "packagesType": [
+          {
+            "type": "gradle",
+            "mustBeRootPublication": true,
+            "variants": []
+          }
+        ],
+        "searchQuery": "ktor"
+      }
 
   - name: API - id lookup
     method: GET
     url: https://api.dev.package-search.services.jetbrains.com/package-info-by-ids
     headers:
       - "Content-Type: application/json"
-    body: '{ "ids": [ "maven:io.ktor:ktor-client-core-jvm" ] }'
+    body: >
+      {
+        "ids": [
+          "maven:io.ktor:ktor-client-core-jvm"
+        ]
+      }
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
