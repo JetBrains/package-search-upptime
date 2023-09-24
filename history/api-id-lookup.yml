@@ -1,7 +1,7 @@
 url: https://api.dev.package-search.services.jetbrains.com/package-info-by-ids
-status: down
-code: 500
-responseTime: 110
-lastUpdated: 2023-09-23T23:01:35.590Z
+status: up
+code: 200
+responseTime: 182
+lastUpdated: 2023-09-24T13:40:59.460Z
 startTime: 2023-09-19T19:15:59.076Z
 generator: Upptime <https://github.com/upptime/upptime>
