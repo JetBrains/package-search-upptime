@@ -1,7 +1,7 @@
 url: https://api.dev.package-search.services.jetbrains.com/search-packages
-status: down
+status: degraded
 code: 405
-responseTime: 590
-lastUpdated: 2023-09-24T23:01:34.824Z
+responseTime: 4673
+lastUpdated: 2023-09-25T22:54:16.847Z
 startTime: 2023-09-19T19:15:55.297Z
 generator: Upptime <https://github.com/upptime/upptime>
