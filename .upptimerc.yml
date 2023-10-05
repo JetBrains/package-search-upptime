@@ -6,7 +6,7 @@ sites:
     url: https://package-search.jetbrains.com/
 
   - name: API (search)
-    method: POST
+    method: GET
     url: https://api.dev.package-search.services.jetbrains.com/search-packages
     maxResponseTime: 2000 # degraded if it takes more than 2 seconds to respond
     headers:
