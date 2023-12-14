@@ -1,7 +1,7 @@
 url: https://api.dev.package-search.services.jetbrains.com/search-packages
-status: degraded
+status: up
 code: 200
-responseTime: 6924
-lastUpdated: 2023-12-14T16:28:17.354Z
+responseTime: 1848
+lastUpdated: 2023-12-14T16:55:55.845Z
 startTime: 2023-09-19T19:15:55.297Z
 generator: Upptime <https://github.com/upptime/upptime>
