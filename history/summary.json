@@ -22,17 +22,17 @@
     "url": "https://api.dev.package-search.services.jetbrains.com/search-packages",
     "icon": "https://icons.duckduckgo.com/ip3/api.dev.package-search.services.jetbrains.com.ico",
     "slug": "api-search",
-    "status": "up",
-    "uptime": "98.88%",
+    "status": "degraded",
+    "uptime": "98.89%",
     "uptimeDay": "98.78%",
-    "uptimeWeek": "97.92%",
+    "uptimeWeek": "97.91%",
     "uptimeMonth": "98.11%",
-    "uptimeYear": "98.88%",
-    "time": 8006,
-    "timeDay": 3690,
-    "timeWeek": 3451,
-    "timeMonth": 2799,
-    "timeYear": 8006,
+    "uptimeYear": "98.89%",
+    "time": 8002,
+    "timeDay": 4197,
+    "timeWeek": 3529,
+    "timeMonth": 2823,
+    "timeYear": 8002,
     "dailyMinutesDown": {
       "2023-12-15": 18,
       "2023-12-14": 28,
@@ -67,7 +67,7 @@
       "2023-10-24": 57,
       "2023-10-23": 170,
       "2023-10-20": 59,
-      "2023-10-19": 57
+      "2023-10-19": 42
     }
   },
   {
