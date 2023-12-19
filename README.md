@@ -1,5 +1,7 @@
 # [📈 Live Status](https://demo.upptime.js.org): <!--live status--> **🟩 All systems operational**
 
+[![internal JetBrains project](https://jb.gg/badges/internal-flat-square.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
+
 This repository contains the open-source uptime monitor and status page for [Upptime](https://upptime.js.org), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/artemmukhin/package-search-upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/artemmukhin/package-search-upptime/actions?query=workflow%3A%22Uptime+CI%22)
